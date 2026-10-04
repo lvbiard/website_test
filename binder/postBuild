@@ -1,4 +1,4 @@
 #!/bin/bash
 
 pip install uv
-uv pip install --system streamlit
+uv sync
