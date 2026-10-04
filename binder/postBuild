@@ -1,3 +1,4 @@
 #!/bin/bash
-# Synchroniser l'environnement global de Binder avec uv en utilisant votre fichier lock
-uv pip install --system -r pyproject.toml --locked
+
+pip install uv
+uv pip install --system streamlit
