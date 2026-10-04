@@ -1,0 +1,9 @@
+[project]
+name = "streamlit-hello-world"
+version = "0.1.0"
+description = "Un projet Streamlit géré par uv sur MyBinder"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit>=1.30.0",
+]
