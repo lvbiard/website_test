@@ -1,5 +1,5 @@
 [project]
-name = "streamlit-hello-world"
+name = "website_test"
 version = "0.1.0"
 description = "Un projet Streamlit géré par uv sur MyBinder"
 readme = "README.md"
